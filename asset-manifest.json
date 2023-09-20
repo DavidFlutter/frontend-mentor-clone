@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-clone/static/css/main.4bded995.css",
+    "main.js": "/frontend-mentor-clone/static/js/main.df019a85.js",
+    "static/media/homepage-hero.webp": "/frontend-mentor-clone/static/media/homepage-hero.08e7641887734c76e046.webp",
+    "static/media/logo-desktop.svg": "/frontend-mentor-clone/static/media/logo-desktop.0b167fe4d6046b89d949a798ce9aec6a.svg",
+    "static/media/image4.webp": "/frontend-mentor-clone/static/media/image4.2cec28b539799174b5b1.webp",
+    "static/media/image2.webp": "/frontend-mentor-clone/static/media/image2.377b3c1bf2256a7aa4bf.webp",
+    "static/media/image3.webp": "/frontend-mentor-clone/static/media/image3.a8b7f3d01e549c06e9a0.webp",
+    "static/media/image1.webp": "/frontend-mentor-clone/static/media/image1.b66a174b81c8901ba14c.webp",
+    "static/media/image6.webp": "/frontend-mentor-clone/static/media/image6.8bba4f44b12567937269.webp",
+    "static/media/image5.webp": "/frontend-mentor-clone/static/media/image5.550d67627b5cfe0a1201.webp",
+    "index.html": "/frontend-mentor-clone/index.html",
+    "static/media/logo-mobile.svg": "/frontend-mentor-clone/static/media/logo-mobile.85bd04c489b50d80ec85f663a322c4ef.svg",
+    "main.4bded995.css.map": "/frontend-mentor-clone/static/css/main.4bded995.css.map",
+    "main.df019a85.js.map": "/frontend-mentor-clone/static/js/main.df019a85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bded995.css",
+    "static/js/main.df019a85.js"
+  ]
+}
